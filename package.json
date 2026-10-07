@@ -1,0 +1,19 @@
+{
+  "name": "sequalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "mysql2": "^3.24.5",
+    "sequelize": "^6.37.8"
+  }
+}
